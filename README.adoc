@@ -1,0 +1,18 @@
+= 🅽🅾🅳🅴🅹🆂-🅴🅹🆂-🆃🅴🅼🅿🅻🅰🆃🅴
+
+== Introduction
+In this repository you can find a template for the creation of `Node/Express Web Applications` with
+`EJS` as templating-engine.
+
+== Dependencies
+* Node JS
+* Express
+* Nodemon
+* EJS
+* Nodemon
+* dotenv
+
+== Usage
+【1】 Clone the repository
+
+【2】 Navigate into the project-directory and run `npm run` to start the project
